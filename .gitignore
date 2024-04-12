@@ -1,0 +1,6 @@
+notebooks/
+__pycache__/
+data/*
+!best.pt
+!task_5s.mp4
+!example.png
